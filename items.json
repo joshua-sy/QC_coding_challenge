@@ -1,0 +1,77 @@
+[
+  {
+    "trade": "Earthworks",
+    "unit_of_measure": "M3",
+    "rate": 50.0
+  },
+  {
+    "trade": "Concrete",
+    "unit_of_measure": "M3",
+    "rate": 120.0
+  },
+  {
+    "trade": "Bricklaying",
+    "unit_of_measure": "M2",
+    "rate": 75.0
+  },
+  {
+    "trade": "Carpentry",
+    "unit_of_measure": "LM",
+    "rate": 30.0
+  },
+  {
+    "trade": "Carpentry",
+    "unit_of_measure": "HOURS",
+    "rate": 60.0
+  },
+  {
+    "trade": "Carpentry",
+    "unit_of_measure": "M2",
+    "rate": 60.0
+  },
+  {
+    "trade": "Carpentry",
+    "unit_of_measure": "EACH",
+    "rate": 100.0
+  },
+  {
+    "trade": "Roofing",
+    "unit_of_measure": "M2",
+    "rate": 90.0
+  },
+  {
+    "trade": "Electrical",
+    "unit_of_measure": "EACH",
+    "rate": 45.0
+  },
+  {
+    "trade": "Plumbing",
+    "unit_of_measure": "EACH",
+    "rate": 150.0
+  },
+  {
+    "trade": "Plastering",
+    "unit_of_measure": "M2",
+    "rate": 25.0
+  },
+  {
+    "trade": "Painting",
+    "unit_of_measure": "M2",
+    "rate": 23.0
+  },
+  {
+    "trade": "Painting",
+    "unit_of_measure": "LM",
+    "rate": 16.0
+  },
+  {
+    "trade": "Painting",
+    "unit_of_measure": "HOURS",
+    "rate": 55.0
+  },
+  {
+    "trade": "Joinery",
+    "unit_of_measure": "EACH",
+    "rate": 200.0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "example_inputs": [
+    {
+      "trade": "Earthworks",
+      "unit_of_measure": "M3"
+    },
+    {
+      "trade": "concrete",
+      "unit_of_measure": ""
+    },
+    {
+      "trade": "bricklaying",
+      "unit_of_measure": "metres 2"
+    },
+    {
+      "trade": "carpentry",
+      "unit_of_measure": "lm"
+    },
+    {
+      "trade": "carpentry",
+      "unit_of_measure": "hour"
+    },
+    {
+      "trade": "Carpentry",
+      "unit_of_measure": "m2"
+    },
+    {
+      "trade": "Carpentry",
+      "unit_of_measure": "item"
+    },
+    {
+      "trade": "Plumbing",
+      "unit_of_measure": "EACH"
+    },
+    {
+      "trade": "Plastering",
+      "unit_of_measure": "M2"
+    },
+    {
+      "trade": "painting",
+      "unit_of_measure": "M2"
+    },
+    {
+      "trade": "Painting",
+      "unit_of_measure": "linear metre"
+    },
+    {
+      "trade": "paint",
+      "unit_of_measure": "HouR"
+    },
+    {
+      "trade": "joins",
+      "unit_of_measure": "EACH"
+    }
+  ]
+}
