@@ -12,6 +12,14 @@ Run the server by:
   
   This should run the server at port 6200 unless port number has been changed. (See server.py if port number has been changed)
 
+## Suggestion
+Use postman to test the API or add more tests to the test_flask_matching.py file. Add the link produced by flask when running server.py into postman. Set it to POST. Add input in Body using raw JSON. 
+
+NOTE: The match call should be done on the match route. For example:
+```
+http://127.0.0.1:6200/match
+```
+
 ## How to run tests
 To run tests, run the following command:
 ```
@@ -91,6 +99,3 @@ The matching algorithm was made based on user inputs and the items database. Mor
 
 ## Conclusion
 Made a matching algorithm that gives the best match and provides a reasonable similarity score based on user input.
-
-## Suggestion
-Use postman to test the API or add more tests to the test_flask_matching.py file. Add the link produced by flask when running server.py into postman. Set it to POST. Add input in Body using raw JSON. 
